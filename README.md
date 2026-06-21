@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Python &amp; JavaScript | ML Explorer 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Building+full-stack+apps+with+JS+%26+Python;Exploring+Machine+Learning+%2B+Data+Science;Currently+focusing+on+ML+fundamentals+%F0%9F%8E%AF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Building+full-stack+apps+with+JS+%26+Python;Exploring+Machine+Learning+%2B+Data+Science;Currently+focusing+on+ML+%F0%9F%8E%AF" alt="Typing SVG" />
 </p>
 
 <p align="center">
