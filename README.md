@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Rahul Saxena</h1>
-<h3 align="center">Full Stack Developer | Python & JavaScript | ML Explorer 🚀</h3>
+<h3 align="center">Full Stack Developer | ML Engineer | Python & JavaScript</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Building+full-stack+apps+with+JS+%26+Python;Exploring+Machine+Learning+%2B+Data+Science;Feature+Engineering+%7C+EDA+%7C+Model+Evaluation;Currently+focusing+on+ML+Preprocessing+%F0%9F%8E%AF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=ML+Engineer+%7C+Full+Stack+Developer;Building+end-to-end+ML+pipelines+%F0%9F%A4%96;Feature+Engineering+%7C+Model+Deployment+%7C+EDA;Shipping+real+ML+apps+with+Streamlit+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,18 +17,17 @@
 
 ---
 
-### 🎯 About Me
-
-- 🌱 Sharpening ML fundamentals — **feature scaling, encoding, log transformation & model evaluation**
-- 💻 Building full-stack applications with **JavaScript** and **Python**
-- 📊 Exploring data science workflows — **EDA, model comparison, preprocessing pipelines**
-- 🚀 Deploying ML apps with **Streamlit** — live diabetes risk prediction app shipped!
-- 🔭 Recently built: end-to-end ML projects, web scrapers, and preprocessing notebooks
-- 🧩 Practicing DSA on **LeetCode** — [@codewithgate28](https://leetcode.com/u/codewithgate28/)
-- 📫 Reach me at: **rahulkumarsaxena9988@gmail.com** &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/rahul-saxena-695343241/)
-
+### 🧠 About Me
+ 
+I'm a **Machine Learning Engineer** and **Full Stack Developer** who builds end-to-end ML systems — from raw data to deployed applications. I work across the full pipeline: data cleaning, feature engineering, model training, evaluation, and deployment.
+ 
+- 🤖 **ML Engineering** — feature scaling, encoding, log transformation, model comparison & evaluation pipelines
+- 🚀 **Deployed ML apps** using Streamlit — live diabetes risk prediction in production
+- 🌐 **Full Stack** — building web applications with JavaScript, Node.js & Python
+- 🕸️ **Data collection** — building web scrapers with BeautifulSoup for real-world datasets
+- 🧩 **DSA** — solving problems on LeetCode [@codewithgate28](https://leetcode.com/u/codewithgate28/)
+- 📫 **rahulkumarsaxena9988@gmail.com** &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/rahul-saxena-695343241/)
 ---
-
 ### 🛠️ Tech Stack
 
 <p align="left">
@@ -48,17 +47,17 @@
 
 ---
 
-### 📌 Featured Projects
+### 📌 Projects
 
 | # | Project | Description | Stack |
 |---|---------|-------------|-------|
-| 🩺 | [diabetes-risk-prediction](https://github.com/rahulSaxena28/diabetes-risk-prediction) | End-to-end ML project predicting diabetes risk — EDA, model comparison (LR, KNN, DT, RF) & live Streamlit app | Python, scikit-learn, Streamlit |
-| 🏢 | [ambitionbox-scraper](https://github.com/rahulSaxena28/ambitionbox-scraper) | Web scraper extracting top companies from AmbitionBox — ratings, reviews, type & location | Python, BeautifulSoup |
-| 📊 | [log-transformation-titanic](https://github.com/rahulSaxena28/log-transformation-titanic) | Log Transformation on Titanic dataset — before/after accuracy comparison with Histogram & Q-Q Plot analysis | Python, scikit-learn |
-| 💼 | [Job-Portal](https://github.com/rahulSaxena28/Job-Portal) | A full-stack job portal web application | JavaScript, Node.js |
-| 🔡 | [sklearn-onehot-encoding](https://github.com/rahulSaxena28/sklearn-onehot-encoding) | One-hot encoding, the k-1 trick, high-cardinality categories & `ColumnTransformer` pipelines | Python, scikit-learn |
-| 📏 | [min-max-feature-scaling](https://github.com/rahulSaxena28/min-max-feature-scaling) | Min-Max normalization on UCI Wine dataset with before/after visualizations | Python, scikit-learn |
-| 📐 | [Feature-Scaling-using-Standardization-method](https://github.com/rahulSaxena28/Feature-Scaling-using-Standardization-method) | Standardization-based feature scaling walkthrough | Python, scikit-learn |
+| 🩺 | [diabetes-risk-prediction](https://github.com/rahulSaxena28/diabetes-risk-prediction) | End-to-end ML system — EDA, full model comparison (LR, KNN, DT, RF), evaluation pipeline & **live Streamlit deployment** | Python, scikit-learn, Streamlit |
+| 🏢 | [ambitionbox-scraper](https://github.com/rahulSaxena28/ambitionbox-scraper) | Production scraper extracting company data from AmbitionBox — ratings, reviews, type & location | Python, BeautifulSoup |
+| 📊 | [log-transformation-titanic](https://github.com/rahulSaxena28/log-transformation-titanic) | Feature engineering deep-dive — log transformation on Titanic with distribution analysis (Histogram + Q-Q) and before/after model accuracy comparison | Python, scikit-learn |
+| 💼 | [Job-Portal](https://github.com/rahulSaxena28/Job-Portal) | Full-stack job portal web application | JavaScript, Node.js |
+| 🔡 | [sklearn-onehot-encoding](https://github.com/rahulSaxena28/sklearn-onehot-encoding) | One-hot encoding, k-1 trick, high-cardinality handling & `ColumnTransformer` pipelines | Python, scikit-learn |
+| 📏 | [min-max-feature-scaling](https://github.com/rahulSaxena28/min-max-feature-scaling) | Min-Max normalization on UCI Wine dataset with before/after distribution visualizations | Python, scikit-learn |
+| 📐 | [Feature-Scaling-using-Standardization-method](https://github.com/rahulSaxena28/Feature-Scaling-using-Standardization-method) | Standardization-based feature scaling — theory to implementation | Python, scikit-learn |
 
 ---
 
@@ -75,13 +74,13 @@
 
 ---
 
-### 🏆 LeetCode Stats
+### 🧩 DSA Skills — via LeetCode (112 problems · C++)
 
-<p align="center">
-  <a href="https://leetcode.com/u/codewithgate28/">
-    <img src="https://leetcard.jacoblin.cool/codewithgate28?theme=light&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
-  </a>
-</p>
+| Level | Skills |
+|-------|--------|
+| 🔴 Advanced | Dynamic Programming · Backtracking · Divide and Conquer |
+| 🟡 Intermediate | Math · Depth-First Search · Hash Table |
+| 🟢 Fundamental | Arrays · Strings · Two Pointers |
 
 ---
 
