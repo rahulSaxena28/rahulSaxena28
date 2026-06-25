@@ -66,7 +66,7 @@ I'm a **Machine Learning Engineer** and **Full Stack Developer** who builds end-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rahulSaxena28&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rahulSaxena28&show_icons=true&theme=default&hide_border=true&count_private=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulSaxena28&layout=compact&hide_border=true&count_private=true" />
 </p>
 
